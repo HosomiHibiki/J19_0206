@@ -1,5 +1,5 @@
 function goToSelectionScreen() {
-    window.location.href = '../html/title.html';
+    window.location.href = 'title.html';
 }
 
 const questions = [
